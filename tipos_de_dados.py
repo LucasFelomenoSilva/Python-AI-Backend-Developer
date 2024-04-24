@@ -1,0 +1,2 @@
+print("""Teste""")
+float("a")
