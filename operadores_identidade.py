@@ -10,3 +10,5 @@ print(saldo is limite)
 # não ocupam a mesma região de memoria
 print(saldo is not limite)
 # indicando que ocupam a mesma região
+
+print((22 - 10) * 3)
